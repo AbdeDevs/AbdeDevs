@@ -17,6 +17,21 @@
        alt="snake" /></a>
 </div>
 
+<br>
+<br>
+
+
+<p align="center">
+  <em>
+    Hello! I'm Abdellah Lamrabat, a third-year Computer Engineering student at the University of Lleida (UDL). Passionate about technology and software development <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, I'm constantly seeking new opportunities to learn and grow in this exciting field. Welcome to my corner on GitHub, where I share projects, ideas, and my journey towards technological excellence. Join me as we explore the world of code and innovation together!
+  </em> 
+  <br>
+</p>
+
+
+<br>
+<br>
+
 <h2 >Known technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
